@@ -1,3 +1,4 @@
+//65쪽 4번
 class Sample2_P4 
 {
     public static void main(String args[])

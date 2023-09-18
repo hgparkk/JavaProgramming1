@@ -1,3 +1,4 @@
+//64쪽 3번
 class Sample2_P3
 {
     public static void main(String args[])

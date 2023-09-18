@@ -1,4 +1,4 @@
-//8진수
+//65쪽 5번 8진수
 class Sample2_P5_1 
 {
     public static void main(String args[])
